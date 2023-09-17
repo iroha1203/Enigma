@@ -9,7 +9,7 @@ fun main() {
 
   val enigma = Enigma(rotor1, rotor2, rotor3, reflector, plugBoard)
 
-  val message = "ZUOVS MIEAR"
+  val message = "HELLO WORLD"
 
   val cypher = message
     .split(" ")
